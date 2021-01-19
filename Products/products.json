@@ -1,0 +1,473 @@
+{
+ "code": 200,
+ "meta": {
+  "pagination": {
+   "total": 282,
+   "pages": 15,
+   "page": 1,
+   "limit": 20
+  }
+ },
+ "data": [
+  {
+   "id": 1,
+   "name": "Fantastic Concrete Pants",
+   "description": "Taceo caritas soleo enim curso calco defero auxilium consectetur tametsi tardus tero coniecto utor summopere uxor solvo curatio ciminatio terror aequus thema molestiae undique dolorem officia subseco armo aspernatur custodia suus itaque commemoro vobis deleniti deludo attollo fugit contigo vito tener copia strues derideo advenio demoror cupressus tabernus comedo tumultus trans modi urbs odio demitto nesciunt auctor accendo bos ulterius illum capitulus averto sumptus.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "35034.97",
+   "discount_amount": "2700.94",
+   "status": true,
+   "categories": [
+    {
+     "id": 14,
+     "name": "Games \u0026 Industrial"
+    },
+    {
+     "id": 3,
+     "name": "Garden \u0026 Toys"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Practical Bronze Coat",
+   "description": "Vel altus sapiente commodo solium ut animi aut caelum talis vespillo capto aegrus dens stultus absum avoco ascisco aduro tempus ustilo adsum vere aer deprecator et admoveo venustas ut cursus strues peccatus termes.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "10810.04",
+   "discount_amount": "6361.28",
+   "status": true,
+   "categories": [
+    {
+     "id": 2,
+     "name": "Garden \u0026 Sports"
+    },
+    {
+     "id": 8,
+     "name": "Garden, Industrial \u0026 Sports"
+    },
+    {
+     "id": 13,
+     "name": "Computers"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Awesome Rubber Plate",
+   "description": "Adultus enim nihil commodo candidus contabesco aeternus enim aut aut arma dignissimos congregatio adinventitias conservo sono trado carus nihil adopto tepesco conicio quibusdam rerum dolorem spoliatio territo timor peior sperno cognomen amplexus distinctio sapiente laborum in assentator desino videlicet decens vulnus sollers caritas denuncio defigo absens et cernuus architecto tot suadeo tabella consectetur deripio quis valde.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "28886.32",
+   "discount_amount": "1689.91",
+   "status": true,
+   "categories": [
+    {
+     "id": 1,
+     "name": "Kids, Shoes \u0026 Music"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "Fantastic Iron Chair",
+   "description": "Aequitas quia adhaero soluta talus inventore cicuta thymbra exercitationem candidus assumenda est uredo tepidus curtus saepe ultio sed voluptatem abduco calculus clarus solutio qui ara desino comburo vel cotidie crebro assentator toties centum voluptatum tenetur tandem auris pecto carus ambulo carbo aegrus utrum adflicto teres cauda culpo cattus averto sub tempore ratione clibanus sumo qui trado timor cavus subnecto cogito sint umquam deficio non.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "15152.76",
+   "discount_amount": "3034.39",
+   "status": true,
+   "categories": [
+    {
+     "id": 6,
+     "name": "Home"
+    },
+    {
+     "id": 7,
+     "name": "Industrial \u0026 Garden"
+    },
+    {
+     "id": 8,
+     "name": "Garden, Industrial \u0026 Sports"
+    },
+    {
+     "id": 19,
+     "name": "Health, Games \u0026 Computers"
+    },
+    {
+     "id": 3,
+     "name": "Garden \u0026 Toys"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Ergonomic Cotton Shoes",
+   "description": "Defluo trado verbum articulus adflicto qui ubi adnuo est blanditiis harum solitudo advoco crur ad apud voco thorax adstringo sunt admitto sono odio debilito inventore amitto vorago sperno est baiulus adimpleo adicio terminatio damno fugit et votum strenuus in sollicito cupiditas nihil tribuo ventito dolorem amplexus vulnero tenuis cupressus aperte corroboro caries summa celer cupiditate tantillus ara volo terra vultuosus mollitia audacia vallum caecus.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "17354.26",
+   "discount_amount": "10632.02",
+   "status": true,
+   "categories": [
+    {
+     "id": 1,
+     "name": "Kids, Shoes \u0026 Music"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Durable Plastic Keyboard",
+   "description": "Capto defluo beneficium esse ea aedificium campana synagoga utique thalassinus viridis et defendo vomica viriliter officiis dolor colligo valeo comprehendo absens vigilo quia illum aureus atrox maxime valde fuga alias debeo maiores desidero cicuta accedo accusantium coepi eligendi acerbitas corpus substantia alioqui et taceo amoveo cito acquiro summopere attollo autem sonitus ut cetera sunt numquam tredecim atqui vesica coerceo amplexus excepturi consequatur quae.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "26995.11",
+   "discount_amount": "578.37",
+   "status": true,
+   "categories": [
+    {
+     "id": 1,
+     "name": "Kids, Shoes \u0026 Music"
+    },
+    {
+     "id": 2,
+     "name": "Garden \u0026 Sports"
+    },
+    {
+     "id": 19,
+     "name": "Health, Games \u0026 Computers"
+    },
+    {
+     "id": 9,
+     "name": "Baby \u0026 Tools"
+    },
+    {
+     "id": 8,
+     "name": "Garden, Industrial \u0026 Sports"
+    },
+    {
+     "id": 13,
+     "name": "Computers"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "Synergistic Marble Gloves",
+   "description": "Quas demo unde succedo tertius terebro enim pariatur amet stillicidium curia audax ullam verus deficio auditor placeat aduro volup despirmatio convoco sit veniam quisquam sunt.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "35319.0",
+   "discount_amount": "22380.04",
+   "status": true,
+   "categories": [
+    {
+     "id": 17,
+     "name": "Baby \u0026 Automotive"
+    },
+    {
+     "id": 10,
+     "name": "Beauty, Home \u0026 Outdoors"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Sleek Aluminum Hat",
+   "description": "Tenus alveus verecundia eum umerus vae exercitationem fugit aer caterva succurro cernuus animi valeo timor carpo adeptio cenaculum censura veritas validus argumentum adeo surgo acceptus decor solus arma delego arca basium voluptas clarus tergeo cupio aequus at pariatur bonus cinis quis aurum cubo ultra tollo eos vetus sopor tamquam tam varietas volutabrum absorbeo porro quod spes sol theologus.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "15295.51",
+   "discount_amount": "793.49",
+   "status": true,
+   "categories": [
+    {
+     "id": 1,
+     "name": "Kids, Shoes \u0026 Music"
+    },
+    {
+     "id": 3,
+     "name": "Garden \u0026 Toys"
+    },
+    {
+     "id": 7,
+     "name": "Industrial \u0026 Garden"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Heavy Duty Marble Gloves",
+   "description": "Minima suggero vulgivagus et sit aspicio nulla abutor sed confugo artificiose avarus tricesimus apud molestiae laboriosam acceptus tabgo decimus pel velum aggredior vesica aut terebro ait despecto vigilo desipio theologus est sollicito cibo veritatis ademptio cuius studio delectus defendo coadunatio trado solum qui demitto thema terreo amiculum adduco tantum defungo ater bonus tepidus color thesaurus sol.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "7176.66",
+   "discount_amount": "3589.89",
+   "status": true,
+   "categories": [
+    {
+     "id": 9,
+     "name": "Baby \u0026 Tools"
+    },
+    {
+     "id": 18,
+     "name": "Electronics, Games \u0026 Shoes"
+    },
+    {
+     "id": 6,
+     "name": "Home"
+    },
+    {
+     "id": 14,
+     "name": "Games \u0026 Industrial"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Ergonomic Paper Bench",
+   "description": "Adnuo caries compello solio impedit tergiversatio tendo attonbitus vinum esse undique patior sed umbra subito dedecor artificiose una ait sub thesaurus adamo confugo ducimus tam vociferor enim soluta speciosus desipio suffoco demens conor tolero temperantia cattus dolorem theatrum demitto eaque alter deprimo vilicus odit asperiores aperiam deserunt sed pel pauper copia aranea.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "20080.92",
+   "discount_amount": "12486.94",
+   "status": true,
+   "categories": [
+    {
+     "id": 10,
+     "name": "Beauty, Home \u0026 Outdoors"
+    },
+    {
+     "id": 9,
+     "name": "Baby \u0026 Tools"
+    },
+    {
+     "id": 7,
+     "name": "Industrial \u0026 Garden"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "Gorgeous Plastic Bottle",
+   "description": "Non nostrum nihil depulso subvenio ultio adinventitias patruus compello alveus admitto cognomen vel modi voluntarius dignissimos crebro bos censura tremo necessitatibus patrocinor usque pecus aggero quisquam qui totam agnitio caste omnis tero nihil similique vesco arx creber avaritia audentia dedecor ascit amplexus tabella ventito statim cattus thesis capto temeritas torqueo bonus sed clementia vado stipes appello.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "16655.03",
+   "discount_amount": "4336.08",
+   "status": true,
+   "categories": [
+    {
+     "id": 15,
+     "name": "Garden"
+    },
+    {
+     "id": 12,
+     "name": "Electronics \u0026 Movies"
+    },
+    {
+     "id": 2,
+     "name": "Garden \u0026 Sports"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Awesome Aluminum Pants",
+   "description": "Ver sit omnis unde vitium adultus sed voluptatum laudantium benevolentia approbo urbanus adamo crepusculum aufero ceno tibi patruus quae non cultellus tenax stipes suasoria thorax umerus nihil creator repudiandae confido cibus quidem varius vitiosus deludo tametsi.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "36173.29",
+   "discount_amount": "26014.07",
+   "status": true,
+   "categories": [
+    {
+     "id": 2,
+     "name": "Garden \u0026 Sports"
+    },
+    {
+     "id": 1,
+     "name": "Kids, Shoes \u0026 Music"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Heavy Duty Granite Pants",
+   "description": "Caute taedium est theologus viscus aut suus debitis venia delibero pax collum caste sunt architecto est desolo triumphus tactus ciminatio utroque conicio conduco condico admiratio crebro dolor fuga officia aestas contra beatae animadverto qui suspendo vere altus sum sollers pecco itaque bis ut.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "46066.41",
+   "discount_amount": "17494.93",
+   "status": true,
+   "categories": [
+    {
+     "id": 5,
+     "name": "Tools, Electronics \u0026 Games"
+    },
+    {
+     "id": 4,
+     "name": "Sports \u0026 Toys"
+    },
+    {
+     "id": 15,
+     "name": "Garden"
+    },
+    {
+     "id": 3,
+     "name": "Garden \u0026 Toys"
+    },
+    {
+     "id": 6,
+     "name": "Home"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "Ergonomic Concrete Shoes",
+   "description": "Admoneo acsi uter armarium umquam vociferor subito timor sollicito quia sed quis tabella viduo amo auditor advoco illum aut minima laudantium cunctatio aestas caute convoco cernuus ver depono crur substantia vae quo auctus bibo desidero aliquid tum atrocitas et cruciamentum caste cresco iure atavus solitudo qui beneficium amicitia nam curia.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "20367.23",
+   "discount_amount": "11344.26",
+   "status": true,
+   "categories": [
+    {
+     "id": 14,
+     "name": "Games \u0026 Industrial"
+    },
+    {
+     "id": 11,
+     "name": "Baby, Movies \u0026 Toys"
+    },
+    {
+     "id": 16,
+     "name": "Shoes, Kids \u0026 Industrial"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Mediocre Paper Clock",
+   "description": "Quaerat desino uberrime vere degusto tener tametsi qui vultuosus tenetur eos carpo quisquam crepusculum terminatio suspendo suffragium enim audentia despecto cena animi copiose cribro amitto somniculosus cras rem demonstro allatus tamen cimentarius alo pectus quibusdam vesco aer textor coaegresco vitium templum dolorem attero acervus subvenio qui quasi facilis quis omnis curso terror accusantium ventito.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "2579.59",
+   "discount_amount": "926.15",
+   "status": true,
+   "categories": [
+    {
+     "id": 16,
+     "name": "Shoes, Kids \u0026 Industrial"
+    },
+    {
+     "id": 1,
+     "name": "Kids, Shoes \u0026 Music"
+    },
+    {
+     "id": 3,
+     "name": "Garden \u0026 Toys"
+    },
+    {
+     "id": 5,
+     "name": "Tools, Electronics \u0026 Games"
+    },
+    {
+     "id": 12,
+     "name": "Electronics \u0026 Movies"
+    },
+    {
+     "id": 6,
+     "name": "Home"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Awesome Aluminum Plate",
+   "description": "Molestiae inventore velit omnis quo tactus validus speciosus confugo vigilo voco casus earum terminatio stillicidium stips curatio hic reprehenderit tempore arca arbustum aeternus viscus demulceo itaque exercitationem non porro et unus contabesco stultus constans tantillus fugit sint cado caput crudelis capillus abstergo argentum vomito sperno trucido arguo demum admoveo compono adulatio cinis voluptas vivo.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "45385.06",
+   "discount_amount": "12721.1",
+   "status": true,
+   "categories": [
+    {
+     "id": 6,
+     "name": "Home"
+    },
+    {
+     "id": 7,
+     "name": "Industrial \u0026 Garden"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "name": "Rustic Steel Plate",
+   "description": "Benigne curo cervus termes quia clam alius suadeo dedico vomica artificiose commodo caritas trado nam vero possimus adultus autus denuncio cattus complectus caries tametsi dapifer apud.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "19476.98",
+   "discount_amount": "12470.61",
+   "status": true,
+   "categories": [
+    {
+     "id": 12,
+     "name": "Electronics \u0026 Movies"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Awesome Marble Chair",
+   "description": "Bos cattus chirographum theca sed curis ultio vesper adsum nisi creber pariatur depraedor corroboro animus taedium desparatus comprehendo pauper damnatio thorax celer umbra terminatio agnosco vobis venio celebrer quisquam absorbeo autem tabella crinis est demum et adiuvo tui antea complectus super adicio bonus tactus laborum coniuratio aut adultus autem arx depopulo apto tempore combibo deduco adfectus spiritus summisse.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "31831.66",
+   "discount_amount": "2458.77",
+   "status": true,
+   "categories": [
+    {
+     "id": 10,
+     "name": "Beauty, Home \u0026 Outdoors"
+    },
+    {
+     "id": 16,
+     "name": "Shoes, Kids \u0026 Industrial"
+    },
+    {
+     "id": 1,
+     "name": "Kids, Shoes \u0026 Music"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Ergonomic Plastic Bottle",
+   "description": "Toties barba degusto accendo minus tenuis coruscus suscipit autem comprehendo chirographum depopulo quos atavus occaecati sit cervus peior eligendi vespillo sumptus eaque utor utrimque voluptatem sperno qui ascisco certus vehemens et cimentarius decumbo stella amitto adfectus.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "38321.73",
+   "discount_amount": "35719.94",
+   "status": true,
+   "categories": [
+    {
+     "id": 1,
+     "name": "Kids, Shoes \u0026 Music"
+    },
+    {
+     "id": 6,
+     "name": "Home"
+    },
+    {
+     "id": 5,
+     "name": "Tools, Electronics \u0026 Games"
+    },
+    {
+     "id": 17,
+     "name": "Baby \u0026 Automotive"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Lightweight Aluminum Shirt",
+   "description": "Reprehenderit dignissimos agnitio super accusamus ambitus vomer tres arx aut concedo comis laboriosam cum non solitudo vita hic depono dolores tantillus dedico carcer deprimo celo callide canis utrimque cogito velum vicissitudo quia iste causa in capto vir accipio claudeo quidem adficio sed uxor consuasor cavus tumultus varius delectatio amita officia tremo spiculum conturbo tondeo usitas.",
+   "image": "https://loremflickr.com/250/250",
+   "price": "40347.04",
+   "discount_amount": "38964.24",
+   "status": true,
+   "categories": [
+    {
+     "id": 7,
+     "name": "Industrial \u0026 Garden"
+    }
+   ]
+  }
+ ]
+}
