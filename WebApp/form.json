@@ -1,0 +1,16 @@
+[
+ {
+  "Firstname": "Manali",
+  "Lastname": "Shah",
+  "DOB": "1999-11-03",
+  "Email": "m@mail.com",
+  "Mobile": "1234567890"
+ },
+ {
+  "Firstname": "Ashita",
+  "Lastname": "Shah",
+  "DOB": "2001-11-29",
+  "Email": "a@mail.com",
+  "Mobile": "0987654321"
+ }
+]
