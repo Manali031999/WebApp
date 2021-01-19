@@ -1,0 +1,173 @@
+{
+ "code": 200,
+ "meta": {
+  "pagination": {
+   "total": 1916,
+   "pages": 96,
+   "page": 1,
+   "limit": 20
+  }
+ },
+ "data": [
+  {
+   "id": 1,
+   "user_id": 1,
+   "title": "Appello confero solvo trucido averto.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.455+05:30",
+   "updated_at": "2021-01-18T03:50:03.455+05:30"
+  },
+  {
+   "id": 2,
+   "user_id": 1,
+   "title": "Volup adsum concedo adflicto demitto callide aveho et.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.458+05:30",
+   "updated_at": "2021-01-18T03:50:03.458+05:30"
+  },
+  {
+   "id": 3,
+   "user_id": 2,
+   "title": "Cernuus deleo triginta non sophismata aveho.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.471+05:30",
+   "updated_at": "2021-01-18T03:50:03.471+05:30"
+  },
+  {
+   "id": 4,
+   "user_id": 3,
+   "title": "Adinventitias impedit thalassinus subseco sonitus bellum vulpes vero candidus testimonium.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.498+05:30",
+   "updated_at": "2021-01-18T03:50:03.498+05:30"
+  },
+  {
+   "id": 5,
+   "user_id": 3,
+   "title": "Alienus delinquo cruentus vomica acquiro curatio dens dedico tabella.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.5+05:30",
+   "updated_at": "2021-01-18T03:50:03.5+05:30"
+  },
+  {
+   "id": 6,
+   "user_id": 4,
+   "title": "Aliqua spoliatio advenio vitae circumvenio tutis et tempore.",
+   "completed": false,
+   "created_at": "2021-01-18T03:50:03.505+05:30",
+   "updated_at": "2021-01-18T03:50:03.505+05:30"
+  },
+  {
+   "id": 7,
+   "user_id": 4,
+   "title": "Atavus laborum tenetur cervus nesciunt spectaculum commodi trado.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.508+05:30",
+   "updated_at": "2021-01-18T03:50:03.508+05:30"
+  },
+  {
+   "id": 8,
+   "user_id": 5,
+   "title": "Deleo subvenio conor tertius conturbo adsidue conqueror tui.",
+   "completed": false,
+   "created_at": "2021-01-18T03:50:03.513+05:30",
+   "updated_at": "2021-01-18T03:50:03.513+05:30"
+  },
+  {
+   "id": 9,
+   "user_id": 5,
+   "title": "Cometes ago valeo tripudio cupio ascit vito incidunt spiculum adfero aut.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.515+05:30",
+   "updated_at": "2021-01-18T03:50:03.515+05:30"
+  },
+  {
+   "id": 10,
+   "user_id": 6,
+   "title": "Amet talio molestias turpe nemo toties cenaculum verbum.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.557+05:30",
+   "updated_at": "2021-01-18T03:50:03.557+05:30"
+  },
+  {
+   "id": 11,
+   "user_id": 6,
+   "title": "Ut depopulo tres ulterius dolor id aeternus alii decretum.",
+   "completed": false,
+   "created_at": "2021-01-18T03:50:03.559+05:30",
+   "updated_at": "2021-01-18T03:50:03.559+05:30"
+  },
+  {
+   "id": 12,
+   "user_id": 6,
+   "title": "Cunabula vetus illo vito super ad tener coadunatio venio sint.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.561+05:30",
+   "updated_at": "2021-01-18T03:50:03.561+05:30"
+  },
+  {
+   "id": 13,
+   "user_id": 7,
+   "title": "Caveo error subnecto cattus speculum veritatis verto patruus.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.579+05:30",
+   "updated_at": "2021-01-18T03:50:03.579+05:30"
+  },
+  {
+   "id": 14,
+   "user_id": 7,
+   "title": "Voluptas tolero timor coruscus rerum atqui aureus delectus corrupti.",
+   "completed": false,
+   "created_at": "2021-01-18T03:50:03.582+05:30",
+   "updated_at": "2021-01-18T03:50:03.582+05:30"
+  },
+  {
+   "id": 15,
+   "user_id": 7,
+   "title": "Torrens sit thema ipsa autem totam thymum eos tersus stipes.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.584+05:30",
+   "updated_at": "2021-01-18T03:50:03.584+05:30"
+  },
+  {
+   "id": 16,
+   "user_id": 9,
+   "title": "Usque alioqui comburo ipsam socius sollers.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.625+05:30",
+   "updated_at": "2021-01-18T03:50:03.625+05:30"
+  },
+  {
+   "id": 17,
+   "user_id": 9,
+   "title": "Audeo vespillo deserunt supra adnuo molestiae.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.627+05:30",
+   "updated_at": "2021-01-18T03:50:03.627+05:30"
+  },
+  {
+   "id": 18,
+   "user_id": 9,
+   "title": "Custodia assentator atrox spes cultellus cuppedia odit terebro.",
+   "completed": false,
+   "created_at": "2021-01-18T03:50:03.629+05:30",
+   "updated_at": "2021-01-18T03:50:03.629+05:30"
+  },
+  {
+   "id": 19,
+   "user_id": 11,
+   "title": "Velociter curtus adficio terreo comitatus laborum itaque creta demum decens.",
+   "completed": false,
+   "created_at": "2021-01-18T03:50:03.645+05:30",
+   "updated_at": "2021-01-18T03:50:03.645+05:30"
+  },
+  {
+   "id": 20,
+   "user_id": 12,
+   "title": "Amitto corpus validus curvo ipsa degero optio sum.",
+   "completed": true,
+   "created_at": "2021-01-18T03:50:03.662+05:30",
+   "updated_at": "2021-01-18T03:50:03.662+05:30"
+  }
+ ]
+}
