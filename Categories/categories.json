@@ -1,0 +1,127 @@
+{
+ "code": 200,
+ "meta": {
+  "pagination": {
+   "total": 19,
+   "pages": 1,
+   "page": 1,
+   "limit": 20
+  }
+ },
+ "data": [
+  {
+   "id": 1,
+   "name": "Kids, Shoes \u0026 Music",
+   "description": "Acervus synagoga sopor patior velit clam accommodo tener.",
+   "status": true
+  },
+  {
+   "id": 2,
+   "name": "Garden \u0026 Sports",
+   "description": "Strenuus viridis traho sopor provident aiunt tibi statim vivo.",
+   "status": true
+  },
+  {
+   "id": 3,
+   "name": "Garden \u0026 Toys",
+   "description": "Voluntarius alienus thesaurus accommodo temperantia usitas aliquam supellex cenaculum tricesimus clementia.",
+   "status": true
+  },
+  {
+   "id": 4,
+   "name": "Sports \u0026 Toys",
+   "description": "Blandior suffoco amaritudo cruciamentum deludo utpote carus defessus defero.",
+   "status": true
+  },
+  {
+   "id": 5,
+   "name": "Tools, Electronics \u0026 Games",
+   "description": "Summa cum stipes casus cerno deporto laudantium catena utor.",
+   "status": true
+  },
+  {
+   "id": 6,
+   "name": "Home",
+   "description": "Vel vel sumo arcesso appono sortitus arca maxime confido sit aeger.",
+   "status": true
+  },
+  {
+   "id": 7,
+   "name": "Industrial \u0026 Garden",
+   "description": "Tondeo accommodo velum supra aperio vulgaris coaegresco thorax copia adulatio.",
+   "status": true
+  },
+  {
+   "id": 8,
+   "name": "Garden, Industrial \u0026 Sports",
+   "description": "Reiciendis expedita conicio approbo sufficio viduo repellendus apparatus.",
+   "status": true
+  },
+  {
+   "id": 9,
+   "name": "Baby \u0026 Tools",
+   "description": "Amplexus confero repellat valde ab cicuta barba adopto harum.",
+   "status": true
+  },
+  {
+   "id": 10,
+   "name": "Beauty, Home \u0026 Outdoors",
+   "description": "Cura autem turpe vespillo peior votum.",
+   "status": true
+  },
+  {
+   "id": 11,
+   "name": "Baby, Movies \u0026 Toys",
+   "description": "Non carus asporto corroboro taedium bos pecto thesaurus sumptus.",
+   "status": true
+  },
+  {
+   "id": 12,
+   "name": "Electronics \u0026 Movies",
+   "description": "Pauper cohors adversus cui dapifer decerno casso.",
+   "status": true
+  },
+  {
+   "id": 13,
+   "name": "Computers",
+   "description": "Cubicularis cum thymbra talus voluptate adsum deludo tredecim.",
+   "status": true
+  },
+  {
+   "id": 14,
+   "name": "Games \u0026 Industrial",
+   "description": "Ipsam pauci demoror callide clementia caries.",
+   "status": true
+  },
+  {
+   "id": 15,
+   "name": "Garden",
+   "description": "Denique sortitus sit veritatis eos.",
+   "status": true
+  },
+  {
+   "id": 16,
+   "name": "Shoes, Kids \u0026 Industrial",
+   "description": "Taceo speciosus thema balbus vel appello demo sunt.",
+   "status": true
+  },
+  {
+   "id": 17,
+   "name": "Baby \u0026 Automotive",
+   "description": "Quod architecto nobis defetiscor victoria brevis provident cernuus unde.",
+   "status": true
+  },
+  {
+   "id": 18,
+   "name": "Electronics, Games \u0026 Shoes",
+   "description": "Amoveo dolorem aperio universe subvenio beneficium apparatus delectus certe.",
+   "status": true
+  },
+  {
+   "id": 19,
+   "name": "Health, Games \u0026 Computers",
+   "description": "Quia tempora assumenda custodia admitto aequitas solum vulnus auris ubi.",
+   "status": true
+  }
+ ]
+}
