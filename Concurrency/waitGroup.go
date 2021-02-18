@@ -26,7 +26,7 @@ func Even(i int, wg *sync.WaitGroup) {
 
 func main() {
 	var wg sync.WaitGroup
-	numArray := makeRange(0, 100)
+	numArray := makeRange(0, 1000)
 	start := time.Now()
 	for i, _ := range numArray {
 		if i%2 == 0 {
