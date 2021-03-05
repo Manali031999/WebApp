@@ -1,0 +1,4 @@
+{"op1":"0","operator":"-","op2":"7","result":"-7"}
+{"op1":"7","operator":"+","op2":"8","result":"15"}
+{"op1":"3","operator":"*","op2":"6","result":"18"}
+{"op1":"7","operator":"+","op2":"8","result":"15"}{"op1":"9","operator":"*","op2":"8","result":"72"}{"op1":"9","operator":"-","op2":"8","result":"1"}
