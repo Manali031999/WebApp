@@ -33,14 +33,17 @@ func Calculations(w http.ResponseWriter, r *http.Request) {
 	}
 
 	var ans float64
-	if data.Operator == "+" {
+	switch data.Operator {
+	case "+":
 		ans = float64(num1) + float64(num2)
-	} else if data.Operator == "-" {
+	case "-":
 		ans = float64(num1) - float64(num2)
-	} else if data.Operator == "*" {
+	case "*":
 		ans = float64(num1) * float64(num2)
-	} else if data.Operator == "/" {
+	case "/":
 		ans = float64(num1) / float64(num2)
+	case "!":
+		ans = factorial(num1)
 	}
 	fmt.Println(ans)
 	data.Result = fmt.Sprint(ans)
@@ -57,9 +60,27 @@ func Calculations(w http.ResponseWriter, r *http.Request) {
 		log.Fatal(err)
 	}
 	f.Close()
-	//_ = ioutil.WriteFile("history.json", resp, 0644)
 	w.Write(resp)
 	return
+}
+
+var factVal float64 = 1.0 // uint64 is the set of all unsigned 64-bit integers.
+// Range: 0 through 18446744073709551615.
+var i float64 = 1.0
+var n float64
+
+/*     function declaration        */
+func factorial(n float64) float64 {
+	if n < 0 {
+		fmt.Print("Factorial of negative number doesn't exist.")
+	} else {
+		for i := 1.0; i <= n; i++ {
+			factVal *= i // mismatched types int64 and int
+		}
+
+	}
+	fmt.Println(factVal)
+	return factVal /* return from function*/
 }
 
 func main() {
