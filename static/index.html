@@ -8,8 +8,8 @@
     <title>INDEX</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
     <!-- Google Fonts Roboto -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
@@ -36,22 +36,22 @@
       <button type="button" value="4" class="btn btn-light waves-effect">4</button>
       <button type="button" value="5" class="btn btn-light waves-effect">5</button>
       <button type="button" value="6" class="btn btn-light waves-effect">6</button>
-
-
+      <!-- <button type="button" value="cos" class="btn btn-light waves-effect">Cos</button> -->
+      <!-- <button type="button" value=")" class="btn btn-light waves-effect">)</button> -->
       <button type="button" value="1" class="btn btn-light waves-effect">1</button>
       <button type="button" value="2" class="btn btn-light waves-effect">2</button>
       <button type="button" value="3" class="btn btn-light waves-effect">3</button>
 
-
       <button type="button" value="0" class="btn btn-light waves-effect">0</button>
       <button type="button" class="decimal function btn btn-secondary" value=".">.</button>
+      <button type="button" value="!" class="btn btn-light waves-effect">!</button>
       <button type="button" class="all-clear function btn btn-danger btn-sm" value="all-clear">AC</button>
-
+      <button type="button" class="clear function btn btn-danger btn-sm" value="clear">C</button>
+      <!-- <button type="button" value="!" class="btn btn-light waves-effect">!</button> -->
       <button type="button" class="equal-sign operator btn btn-default" value="=">=</button>
 
     </div>
   </div>
-
     <!-- Your custom scripts -->
     <!-- <script type="text/javascript" src="/static/calc.js"></script> -->
     <script>
@@ -124,10 +124,10 @@
             'Content-Type': 'application/json',
         }
       };
-      console.log("Fetch Called")
+      //console.log("Fetch Called")
       const response = await fetch('/Get',settings)
       const data = await response.json();
-      console.log(data)
+      //console.log(data)
       return data;
     }
 
@@ -138,14 +138,31 @@
       calculator.operator = null;
     }
 
+    function del(){
+      //display=updateDisplay()
+      console.log("del function")
+      console.log(calculator.displayValue)
+      console.log(calculator.displayValue.value)
+    //   if (!calculator.displayValue.length==0 &&  calculator.displayValue.length==1)
+    //     calculator.displayValue=calculator.displayValue.value
+    // //   document.querySelector('.clear').click(function() {
+    //   var value = document.querySelector('.calculator-keys').val();
+    //   if (!(parseInt(parseFloat(value)) == 0 && value.length == 1))
+    //     $("#expression").val(value.slice(0, value.length - 1));
+    //   if (value.length == 1)
+    //     $("#expression").val("0");
+    // });
+    }
+
     function updateDisplay() {
       const display = document.querySelector('.calculator-screen');
       display.value = calculator.displayValue;
+      //console.log(display.value);
     }
 
     updateDisplay();
 
-    const keys = document.querySelector('.calculator-keys');
+    const keys = document.querySelector('.operator, .calculator-keys');
     keys.addEventListener('click', (event) => {
       const { target } = event;
       if (!target.matches('button')) {
@@ -153,9 +170,10 @@
       }
 
       if (target.classList.contains('operator')) {
-        handleOperator(target.value);
-        console.log(target.value);
+        inputDigit(target.value);
+      //  console.log(target.value);
         updateDisplay();
+        handleOperator(target.value);
         return;
       }
 
@@ -167,6 +185,11 @@
 
       if (target.classList.contains('all-clear')) {
         resetCalculator();
+        updateDisplay();
+        return;
+      }
+      if (target.classList.contains('clear')){
+        del();
         updateDisplay();
         return;
       }
